@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi, I'm Sarvesh Bhoyar, passionate developer
+# Hi, I'm Sarvesh Bhoyar, passionate developer (Nosis)
 
 <h2 align="left"> Full-Stack Developer | Problem Solver</h2>
 
