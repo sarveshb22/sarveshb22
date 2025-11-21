@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
 
 # Hi, I'm Sarvesh Bhoyar, passionate developer
 
-<h2 align="center"> Full-Stack Developer | Problem Solver</h2>
+<h2 align="left"> Full-Stack Developer | Problem Solver</h2>
 
-<p align="center">
+<p align="left">
   <em>Transforming ideas into digital reality through code</em>
 </p>
 
@@ -17,10 +17,10 @@
 </div>
 
 ---
-<div align="center">
-## 🚀 About Me
+<div align="left">
+🚀 About Me
 
-> **Transforming ideas into digital reality through code**
+
 
 🎓 **B.Tech Civil Engineering** @ IIT (ISM) Dhanbad (Class of 2026) <br/>
 💻 **Full-Stack Developer** <br/>
@@ -31,7 +31,7 @@
 </div>
 
 
-<div align="center">
+<div align="left">
 
 **I'm always excited to connect with fellow developers, discuss new technologies, or collaborate on interesting projects!**
 
